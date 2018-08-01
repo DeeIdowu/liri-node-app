@@ -1,0 +1,19 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "Project Goals: Connect to three API's via Node, output the data returned to the console, and as a bonus, output it to the log.txt file.  Output sent to the log.txt file should append to prior output, it should not overwrite prior output.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adancode/liri-node-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adancode/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/Adancode/liri-node-app#readme"
+}
